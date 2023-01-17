@@ -1,2 +1,1 @@
-# Portfolio-
-My GitHub Portfolio is a collection of software projects that demonstrate my skills and experience as a DevOps engineer.  My infrastructure project uses Terraform to provision infrastructure on AWS and sets up a multi-tier web application architecture.
+Welcome to my GitHub Portfolio repository where you'll find projects showcasing my skills as a software engineer. Included is a facial/biometric auth project using computer vision, machine learning, & web dev tech and an infrastructure project showcasing my ability to design & implement scalable, secure, cloud-based infra using Terraform, Jenkins, and Ansible. Both are open-source and actively maintained.
